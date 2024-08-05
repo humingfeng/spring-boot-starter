@@ -14,7 +14,7 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <redssion.version>3.11.6</redssion.version>
+        <redssion.version>3.22.0</redssion.version>
     </properties>
 
     <!--阿里云私服仓库-->
